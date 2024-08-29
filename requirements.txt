@@ -1,0 +1,8 @@
+streamlit
+langchain==0.0.324
+sentence_transformers==2.2.2
+torch==2.0.1
+PyPDF2
+openai==0.28.1
+pymysql  # or mysql-connector-python
+numpy
